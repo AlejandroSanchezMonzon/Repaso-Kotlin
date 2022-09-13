@@ -1,4 +1,4 @@
-package TablaMultiplicar
+package tablaMultiplicar
 
 fun main() {
     var num1: Int

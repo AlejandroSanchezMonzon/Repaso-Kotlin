@@ -1,4 +1,4 @@
-package ExpresionesRegulares
+package expresionesRegulares
 
 fun main() {
     var isValid: Boolean
